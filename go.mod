@@ -1,4 +1,4 @@
-module github.com/CodeOfThor/whatsmeow
+module go.mau.fi/whatsmeow
 
 go 1.19
 
